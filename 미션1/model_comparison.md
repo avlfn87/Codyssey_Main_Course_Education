@@ -40,9 +40,9 @@
 | 제미나이 | 점수만 보았을 때에는 클로드가 우세하지만, 각 모델마다의 최대 단점을 비교했을 때 제미나이가 가장 디벨롭하기 쉬웠다고 판단된다. 그리고 점수들의 감점 요인이 수정에 용이할 뿐 아니라 (PPT가 기획안.md로 제출되어 기획서대로 다시 만들어달라고 요청함) 그런 간단한 감점을 없이 본다면 클로드보다 점수가 높았다.|
 
 ## 대화 로그 
--제미나이 - https://share.gemini.google/aJMXkxFsjkpF 
--지피티 - https://chatgpt.com/share/6b094111-a524-83ee-9c6a-01c5b13b839c 
--클로드 - https://claude.ai/share/4e2845f7-6283-481e-b7b6-2bd387dcc81b 
+- 제미나이 : https://share.gemini.google/aJMXkxFsjkpF 
+- 지피티 : https://chatgpt.com/share/6b094111-a524-83ee-9c6a-01c5b13b839c 
+- 클로드 : https://claude.ai/share/4e2845f7-6283-481e-b7b6-2bd387dcc81b 
 
 <!-- 
 각 모델의 부족한점은
